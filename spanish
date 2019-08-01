@@ -3,8 +3,8 @@
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg", La 1 HD| SD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
 
-#EXTINF:0 type="stream" channelId="736" tvg-logo="https://yt3.ggpht.com/a-/ACSszfFBVcVBVuU9re2ZwpqZD9sGJPlCDiPEARLOGg=s900-mo-c-c0xffffffff-rj-k-no", CGTN Español
-http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320", La 2 HD| SD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.tvalacarta.info/canales/256x256/ib3.png", IB3 | SD
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
