@@ -6,5 +6,11 @@ http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320", La 2 HD| SD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://media.tvalacarta.info/canales/256x256/ib3.png", IB3 | SD
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320", Antena 3 HD | SD
+https://livestartover.atresmedia.com/geoantena3/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320", Cuatro HD| SD
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320", Telecinco HD | SD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
