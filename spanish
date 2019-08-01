@@ -14,3 +14,12 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320", Telecinco HD | SD
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320", laSexta HD | SD
+https://livestartover.atresmedia.com/geoantena3/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320", Neox HD| SD
+https://livestartover.atresmedia.com/geoneox/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320", Nova HD | SD
+https://livestartover.atresmedia.com/geonova/master.m3u8
