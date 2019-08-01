@@ -24,5 +24,5 @@ https://livestartover.atresmedia.com/geoneox/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320", Nova HD | SD
 https://livestartover.atresmedia.com/geonova/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http:", Sony Entertainment Television | SD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http:", Star Plus | SD
 http://103.13.228.157/streamlink.m3u8
