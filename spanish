@@ -1,32 +1,44 @@
 #EXTM3U
  
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg", La 1 HD| SD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg", La 1 HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320", La 2 HD| SD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320", La 2 HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320", Antena 3 HD | SD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320", Antena 3 HD
 https://livestartover.atresmedia.com/geoantena3/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320", Cuatro HD| SD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320", Cuatro HD
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320", Telecinco HD | SD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320", Telecinco HD
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320", laSexta HD | SD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320", laSexta HD
 https://livestartover.atresmedia.com/geoantena3/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320", Neox HD| SD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320", Neox HD
 https://livestartover.atresmedia.com/geoneox/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320", Nova HD | SD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320", Nova HD
 https://livestartover.atresmedia.com/geonova/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg- logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320", Mega HD
 https://livestartover.atresmedia.com/geomega/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg- logo=" http://graph.facebook.com/divinityes/picture?width=320&height=320", Divinity HD
+#EXTINF:0 type="stream" channelId="-1" tvg- logo="http://graph.facebook.com/divinityes/picture?width=320&height=320", Divinity HD
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/BeMadTV/picture?width=320&height=320", Be Mad HD 
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320", RealMadrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d1/91/44/d19144d8-3725-6a09-3f4e-ab72a89a850c/source/320x320bb.jpg ", Disney Channel
+http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8
+
+
+
 
