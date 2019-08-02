@@ -24,5 +24,36 @@ https://livestartover.atresmedia.com/geoneox/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320", Nova HD | SD
 https://livestartover.atresmedia.com/geonova/master.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http:", Star Plus | SD
-http://103.13.228.157/streamlink.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg- logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320", Mega HD
+https://livestartover.atresmedia.com/geomega/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg- logo=" http://graph.facebook.com/divinityes/picture?width=320&height=320", Divinity HD
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo=" http://graph.facebook.com/BeMadTV/picture?width=320&height=320", Be Mad HD 
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo=" http://graph.facebook.com/mtmad.es/picture?width=320&height=320", 24h HD
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo=" http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320", Teledeporte HD
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo=" http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320", RealMadrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d1/91/44/d19144d8-3725-6a09-3f4e-ab72a89a850c/source/320x320bb.jpg ", Disney Channel
+http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo=" http://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320", Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo=" http://graph.facebook.com/876348079083751/picture?width=320&height=320" , Tenerife 2030 TV HD
+http://livestream.iter.es:9876/tdt/tdt.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo=" http://graph.facebook.com/laiftvgroup/picture?width=320&height=320" , Madrid",Life TV
+http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo http://graph.facebook.com/bloombergbusiness/picture?width=320&height=320" , Bloomberg Europe HD
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+
