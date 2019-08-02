@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 group-title="(IN) India",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(IN) India",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(IN) India",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(IN) India",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
 #EXTINF:0 group-title="(IN) India",AAJ TAK | SD
 http://topiptv.net:5890/live/fathi/fathi1/6457.m3u8
 #EXTINF:0 group-title="(IN) India",AASTHA BHAJAN BHAKTI | SD
