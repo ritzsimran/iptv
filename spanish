@@ -66,6 +66,8 @@ http://mlsh.co:2086/live/jake/jake1/20357.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.google.com/search?q=zee+cinema+logo&tbm=isch&source=iu&ictx=1&fir=iXHYXhjyuezxMM%253A%252CKgp1a7andbCddM%252C_&vet=1&usg=AI4_-kSPPi3yZruX7dAEzcEY2P2Dd7fpxQ&sa=X&ved=2ahUKEwiimL_jpOrjAhWGDxQKHe56CEIQ9QEwAnoECAYQCA#imgrc=iXHYXhjyuezxMM:&vet=1",Zee Cinema HD
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.google.com", Zee TV HD
+http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 
 
 
