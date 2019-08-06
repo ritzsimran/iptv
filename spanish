@@ -58,7 +58,10 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/DisneyChannelESP/picture?width=320&height=320", Disney Channel
-http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8
+http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8?referrer=aHR0cDovL2Rpc25leWNoYW5uZWwuZXM=&playSessionId=8134da47-6b06-6113-0fde-2079fb2dcca0
+
+#EXTINF:-1,Disney Channel
+https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/boinges/picture?width=320&height=320", Boing HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
