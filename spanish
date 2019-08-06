@@ -30,6 +30,9 @@ https://livestartover.atresmedia.com/geomega/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg- logo="http://graph.facebook.com/divinityes/picture?width=320&height=320", Divinity HD
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/DKissTV/picture?width=320&height=320", DKISS HD
+http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/BeMadTV/picture?width=320&height=320", Be Mad HD 
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 
@@ -54,8 +57,8 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/bloombergbusiness/picture?width=320&height=320", Bloomberg Europe HD
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d1/91/44/d19144d8-3725-6a09-3f4e-ab72a89a850c/source/320x320bb.jpg", Disney Channel
-http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/DisneyChannelESP/picture?width=320&height=320", Disney Channel
+http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/boinges/picture?width=320&height=320", Boing HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
@@ -66,8 +69,7 @@ http://mlsh.co:2086/live/jake/jake1/20357.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.google.com/search?q=zee+cinema+logo&tbm=isch&source=iu&ictx=1&fir=iXHYXhjyuezxMM%253A%252CKgp1a7andbCddM%252C_&vet=1&usg=AI4_-kSPPi3yZruX7dAEzcEY2P2Dd7fpxQ&sa=X&ved=2ahUKEwiimL_jpOrjAhWGDxQKHe56CEIQ9QEwAnoECAYQCA#imgrc=iXHYXhjyuezxMM:&vet=1",Zee Cinema HD
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.google.com", Zee TV HD
-http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+
 
 
 
