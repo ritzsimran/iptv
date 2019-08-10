@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1,iptv-m3u-playlist.com l ZEE CINEMA
+#EXTINF:-1,ZEE CINEMA
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15287
-#EXTINF:-1,iptv-m3u-playlist.com l ZEE TV
+#EXTINF:-1,ZEE TV
 http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15286
+#EXTINF:-1,SONY ASIA
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15298
+#EXTINF:-1,SONY MAX
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15297
+#EXTINF:-1,SONY MIX
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15296
+#EXTINF:-1,SONY SAB
+http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15295
