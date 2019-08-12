@@ -1,45 +1,82 @@
 #EXTM3U
-#EXTINF:-1,ZEE CINEMA
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15287
-#EXTINF:-1,ZEE TV
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15286
-#EXTINF:-1,SONY ASIA
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15298
-#EXTINF:-1,SONY MA
-http://ok2.se:8000/M6Yz02y084/jAJob8Mce0/7320
-#EXTINF:-1,SONY MIX
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15296
-#EXTINF:-1,SONY SAB
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15295
-#EXTINF:-1,STAR BHARAT
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15294
-#EXTINF:-1,Star Vijay UK
-http://216.144.250.174/Star_Vijay_hD/track-v1a1/index.m3u8
-#EXTINF:-1,STAR GOLD
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15293
-#EXTINF:-1,STAR PLUS
-http://216.144.250.174/Star_Plus_HD/track-v1a1/index.m3u8
-#EXTINF:-1,RISHTEY TV
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15301
-#EXTINF:-1,STAR UTSAV
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15291
-#EXTINF:-1,COLORS
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15327
-#EXTINF:-1,APNA CHANNEL
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/16466
-#EXTINF:-1,ABP NEWS
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15337
-#EXTINF:-1,ABB TAK NEWS
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/16468
-#EXTINF:-1,GEO NEWS
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15324
-#EXTINF:-1,NDTV
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15313
-#EXTINF:-1,B4U MOVIES
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15333
-#EXTINF:-1,B4U MUSIC
-http://www.sansat.net:25461/3922504444/XByPE3gCPvyMvSw/15332
-#EXTINF:-1,Zee TV HD
-http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="Hindi",MTV India
-http://50.7.198.170:8081/Ind/MTVINDIA/playlist.m3u8
+#here are 37 Hindi Entertainment Channel with 7 HD channels.
+
+#EXTINF:0, group-title="Entertainment",STAR PLUS
+#EXTINF:0, group-title="Entertainment",STAR PLUS HD
+
+#EXTINF:0, group-title="Entertainment",ZEE TV
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",ZEE TV HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",SONY
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",SONY HD
+http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",LIFE OK
+#EXTINF:0, group-title="Entertainment",LIFE OK HD
+#EXTINF:0, group-title="Entertainment",COLORS
+#EXTINF:0, group-title="Entertainment",COLORS HD
+#EXTINF:0, group-title="Entertainment",AIRTEL ENTERTAINMENT HOME
+
+#EXTINF:0, group-title="Entertainment",&TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",&TV HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",HOME SHOP 18
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226354/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",CJ ALIVE
+
+#EXTINF:0, group-title="Entertainment",LF HD
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226329/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",BIG MAGIC
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225745/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",SONY SAB
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",SONY SAB HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",NAPTOL GREEN /A2Z DOC
+#EXTINF:0, group-title="Entertainment",RISHTEY
+#EXTINF:0, group-title="Entertainment",STAR UTSAV
+
+#EXTINF:0, group-title="Entertainment",SONY PAL
+http://mhms9.airtel.tv/wh7f454c46tw175355988_1612456563/PLTV/88888888/224/3221226200/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",ZEE ZINDAGI
+#EXTINF:0, group-title="Entertainment",BINDASS
+#EXTINF:0, group-title="Entertainment",GEMPORIA TV
+#EXTINF:0, group-title="Entertainment",EPIC TV
+
+#EXTINF:0, group-title="Entertainment",ZEE ANMOL
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226199/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",BLUE TV NAAPTOL
+
+#EXTINF:0, group-title="Entertainment",ENTERR10
+http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",INVESTIGATION DISCOVERY
+
+#EXTINF:0, group-title="Entertainment",DD NATIONAL
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226296/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",DD INDIA
+http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226293/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",DD BHARATI
+http://mhms9.airtel.tv/wh7f454c46tw167550841_1932516860/PLTV/88888888/224/3221226291/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",DD KISAN
+http://125.17.129.10/PLTV/88888888/224/3221226294/index.m3u8
+
+#EXTINF:0, group-title="Entertainment",NAAPTOL BLUE
