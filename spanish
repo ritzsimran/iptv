@@ -1,86 +1,203 @@
 #EXTM3U
- 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg", La 1 HD
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320", La 2 HD
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320", Antena 3 HD
-https://livestartover.atresmedia.com/geoantena3/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320", Cuatro HD
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320", Telecinco HD
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320", laSexta HD
-https://livestartover.atresmedia.com/geolasexta/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320", Neox HD
-https://livestartover.atresmedia.com/geoneox/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320", Nova HD
-https://livestartover.atresmedia.com/geonova/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg- logo="http://graph.facebook.com/megaTDT/picture?width=320&height=320", Mega HD
-https://livestartover.atresmedia.com/geomega/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg- logo="http://graph.facebook.com/divinityes/picture?width=320&height=320", Divinity HD
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/DKissTV/picture?width=320&height=320", DKISS HD
-http://kisstvnacional.es.flash.glb.cana ... ylist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/BeMadTV/picture?width=320&height=320", Be Mad HD 
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/RealMadridTV7/picture?width=320&height=320", RealMadrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/laiftvgroup/picture?width=320&height=320", Madrid Life TV
-http://178.132.6.97/uzivo/lifetvesp976/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/CANAL4TENERIFE/picture?width=320&height=320", Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/876348079083751/picture?width=320&height=320", Tenerife 2030 TV HD
-http://livestream.iter.es:9876/tdt/tdt.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/teledeporteRTVE/picture?width=320&height=320", Teledeporte HD
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/mtmad.es/picture?width=320&height=320", 24h HD
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/bloombergbusiness/picture?width=320&height=320", Bloomberg Europe HD
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/DisneyChannelESP/picture?width=320&height=320", Disney Channel
-http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8?referrer=aHR0cDovL2Rpc25leWNoYW5uZWwuZXM=&playSessionId=8134da47-6b06-6113-0fde-2079fb2dcca0
-
-#EXTINF:-1,Disney Channel
-https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://graph.facebook.com/boinges/picture?width=320&height=320", Boing HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.google.com/search?q=baby+tv+logo&tbm=isch&source=iu&ictx=1&fir=JgGKwrYkdYRuYM%253A%252Clpy-arOCPeenkM%252C_&vet=1&usg=AI4_-kTNEzDTAP7ACMm9eyfpxCNHDTDBHA&sa=X&ved=2ahUKEwiVgZmpn-rjAhWIY8AKHcYDDbYQ9QEwAHoECAIQBA#imgrc=JgGKwrYkdYRuYM:", Baby TV
-http://mlsh.co:2086/live/jake/jake1/20357.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.google.com/search?q=zee+cinema+logo&tbm=isch&source=iu&ictx=1&fir=iXHYXhjyuezxMM%253A%252CKgp1a7andbCddM%252C_&vet=1&usg=AI4_-kSPPi3yZruX7dAEzcEY2P2Dd7fpxQ&sa=X&ved=2ahUKEwiimL_jpOrjAhWGDxQKHe56CEIQ9QEwAnoECAYQCA#imgrc=iXHYXhjyuezxMM:&vet=1",Zee Cinema HD
-http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,|SP| LA 1 HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36547
+#EXTINF:-1,|SP| LA 2
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36551
+#EXTINF:-1,|SP| NOVA
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/37021
+#EXTINF:-1,|SP| LA SEXTA HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36534
+#EXTINF:-1,|SP| ANTENA 3 HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36536
+#EXTINF:-1,|SP| CUATRO HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36535
+#EXTINF:-1,|SP| TELECINCO HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36531
+#EXTINF:-1,|SP| CANAL 24 HORAS
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36549
+#EXTINF:-1,|SP| CANAL ORBE21
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94774
+#EXTINF:-1,|SP| 24 HORAS
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36485
+#EXTINF:-1,|SP| TVE INTERNACIONAL EUROPA
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36550
+#EXTINF:-1,|SP| TVGA
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/83798
+#EXTINF:-1,|SP| FDF
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36490
+#EXTINF:-1,|SP| CLAN TVE
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36491
+#EXTINF:-1,|SP| HOLLYWOOD HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36541
+#EXTINF:-1,|SP| IBERALIA TV
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36475
+#EXTINF:-1,|SP| MEGA HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/37185
+#EXTINF:-1,|SP| #VAMOS HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94773
+#EXTINF:-1,|SP| BABY TV
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36504
+#EXTINF:-1,|SP| BOING
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36502
+#EXTINF:-1,|SP| COMEDYCENTRAL HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36515
+#EXTINF:-1,|SP| COMEDY CENTRAL
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94811
+#EXTINF:-1,|SP| DISNEY CH HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94777
+#EXTINF:-1,|SP| DISNEY JR
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36476
+#EXTINF:-1,|SP| DISNEY XD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36480
+#EXTINF:-1,|SP| NICK JR
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94763
+#EXTINF:-1,|SP| NICK/MTV
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94762
+#EXTINF:-1,|SP| NICKELODEON  HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36525
+#EXTINF:-1,|SP| FOX HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36542
+#EXTINF:-1,|SP| FOX LIFE HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36513
+#EXTINF:-1,|SP| FOX NEWS
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36498
+#EXTINF:-1,|SP| 0 HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36523
+#EXTINF:-1,|SP| AMC HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36537
+#EXTINF:-1,|SP| ARAGON TV INT
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36468
+#EXTINF:-1,|SP| AXN
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36477
+#EXTINF:-1,|SP| AXN HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36548
+#EXTINF:-1,|SP| AXN WHITE HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36510
+#EXTINF:-1,|SP| SYFY HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36506
+#EXTINF:-1,|SP| TCM HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36518
+#EXTINF:-1,|SP| TNT HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36517
+#EXTINF:-1,|SP| BE MAD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36467
+#EXTINF:-1,|SP| BLAZE
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36484
+#EXTINF:-1,|SP| CALLE 13 HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36530
+#EXTINF:-1,|SP| CANAL COCINA
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36488
+#EXTINF:-1,|SP| CANAL DECASA
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36494
+#EXTINF:-1,|SP| CANAL ODISEA
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36493
+#EXTINF:-1,|SP| CANAL SUR A.
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36483
+#EXTINF:-1,|SP| CAZAyPESCA HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36522
+#EXTINF:-1,|SP| CLASSICA
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36473
+#EXTINF:-1,|SP| COSMO HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36514
+#EXTINF:-1,|SP| CRIMEN+INVES
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36482
+#EXTINF:-1,|SP| DIVINITY
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36501
+#EXTINF:-1,|SP| ENERGY
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36500
+#EXTINF:-1,|SP| LALIGA123 TV
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/51268
+#EXTINF:-1,|SP| M.LCAMPEONES
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36516
+#EXTINF:-1,|SP| LALIGA TV BAR
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36546
+#EXTINF:-1,|SP| BEIN LALIGA HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36543
+#EXTINF:-1,|SP| EUROSPORT1 HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36529
+#EXTINF:-1,|SP| EUROSPORT 1
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36499
+#EXTINF:-1,|SP| EUROSPORT 2
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36471
+#EXTINF:-1,|SP| M.FORMULA1 HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36533
+#EXTINF:-1,|SP| GOL
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36497
+#EXTINF:-1,|SP| BAR TV
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36503
+#EXTINF:-1,|SP| R. MADRID TV
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36465
+#EXTINF:-1,|SP| TOROS HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36524
+#EXTINF:-1,|SP| M. FORMULA1 HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36495
+#EXTINF:-1,|SP| BEINLALIGA1 HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36538
+#EXTINF:-1,|SP| M.GOLF HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36512
+#EXTINF:-1,|SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36544
+#EXTINF:-1,|SP| M.ACCION HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36540
+#EXTINF:-1,|SP| M. CINE ESPANOL
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36478
+#EXTINF:-1,|SP| M. COMEDIA HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36545
+#EXTINF:-1,|SP| M.DRAMA HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36539
+#EXTINF:-1,|SP| M. DISNEY
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36496
+#EXTINF:-1,|SP| M.ESTRENOS HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36507
+#EXTINF:-1,|SP| M.CINEDOC&ROLL
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/91600
+#EXTINF:-1,|SP| M.CINEDOC&ROLL HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36508
+#EXTINF:-1,|SP| M.SERIES HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36520
+#EXTINF:-1,|SP| M.SERIESMANIA HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36511
+#EXTINF:-1,|SP| M.DEPORTES1 HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36509
+#EXTINF:-1,|SP| M. DEPORTES1 HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36528
+#EXTINF:-1,|SP| TELEDEPORTE
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36486
+#EXTINF:-1,|SP| MEZZO
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94769
+#EXTINF:-1,|SP| MEZZO LIVE HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36527
+#EXTINF:-1,|SP| M.WIMBLEDONHD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36532
+#EXTINF:-1,|SP| MTV ROCKS
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36474
+#EXTINF:-1,|SP| MTV
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94768
+#EXTINF:-1,|SP| MTV ESPA¹A
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94766
+#EXTINF:-1,|SP| MTV MUSIC 24
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94764
+#EXTINF:-1,|SP| MTV HITS
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94765
+#EXTINF:-1,|SP| MTV DANCE
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94767
+#EXTINF:-1,|SP| SUNDANCE TV
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/94771
+#EXTINF:-1,|SP| DISCOVERY
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36481
+#EXTINF:-1,|SP| NAT GEO HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36526
+#EXTINF:-1,|SP| NAT GEO WILD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36489
+#EXTINF:-1,|SP| NAT GEO WILD HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36519
+#EXTINF:-1,|SP| NEOX
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36470
+#EXTINF:-1,|SP| PARAMOUNT
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36472
+#EXTINF:-1,|SP| VH1
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36469
+#EXTINF:-1,|SP| VIAJAR HD
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36505
+#EXTINF:-1,|SP| HISTORIA
+http://190.2.146.40:80/SwUSIhjwyT/yaAkLZCrAz/36479
